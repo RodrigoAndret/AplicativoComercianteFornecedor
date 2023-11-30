@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.botaologin button{
+    margin-right: 1vw;
+    margin-left: 5vw;
+    padding: 10px;
+    border-radius: 8px;
+    width: 150px;
+    background-color: #235789;
+    border: none;
+    font-weight: 500;
+}
+
+.botao-cadastrar{
+   background-color: #235789;
+   border: none;
+   width: 150px;
+   font-weight: 500;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 89vh;
+
+}
+
+i{
+    font-size: 30px;
+    color: rgb(0, 145, 255);
+}
+a span{
+    font-size: 30px;
+}
+
+.navbar-brand:hover{
+    cursor: pointer;
+}

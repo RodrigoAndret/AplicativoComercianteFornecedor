@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fundo{
+    background-image: url(./imagens/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+.box-comerciante{
+  
+    width: 100%;
+    height: 100%;
+}
+
+.container-comerciante{
+    margin-top: 10vh;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar{
+
+    justify-content: flex-start;
+    ;
+
+}
+.form-inline{
+    display: inline-flex;
+    gap: 10px;
+}
+.form-inline .pesquisar{
+    width:65vw;
+}
+
+.titulo-comerciante{
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+.titulo-comerciante h1{
+  font-weight: bolder;
+}
+
+#pesquisar-produtos{
+    width: 62vw;
+    border-radius: 8px;
+    padding: 5px;
+}
+#pesquisar-produtos:hover{
+cursor: pointer;
+}
+
+.botao-enviar{
+    padding: 5px;
+    border: solid #bcbcbc 1px;
+    border-radius: 8px;
+    margin-left: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.botao-enviar:hover{
+    background-color: #d9d7d7;
+} 
