@@ -1,0 +1,65 @@
+Nome dos membros do grupo = Victor Blum, Gabriel Sozin Nogueira, Daniel Souza Santos, Rodrigo Andreta da Silva
+
+
+Adicione no banco de dados esses produtos na tabela produtos !!!!!!
+
+
+insert into produtos (nome_produto) value ("carne bovina");
+insert into produtos (nome_produto) value ("carne suína");
+insert into produtos (nome_produto) value ("aves");
+insert into produtos (nome_produto) value ("pescados");
+insert into produtos (nome_produto) value ("água mineral");
+insert into produtos (nome_produto) value ("sucos");
+insert into produtos (nome_produto) value ("néctar");
+insert into produtos (nome_produto) value ("refresco");
+insert into produtos (nome_produto) value ("refrigerantes");
+insert into produtos (nome_produto) value ("café");
+insert into produtos (nome_produto) value ("chá");
+insert into produtos (nome_produto) value ("cerveja");
+insert into produtos (nome_produto) value ("vinho");
+insert into produtos (nome_produto) value ("destilados");
+insert into produtos (nome_produto) value ("leite");
+insert into produtos (nome_produto) value ("queijo");
+insert into produtos (nome_produto) value ("manteiga");
+insert into produtos (nome_produto) value ("iogurte");
+insert into produtos (nome_produto) value ("requeijão");
+insert into produtos (nome_produto) value ("bebida láctea");
+insert into produtos (nome_produto) value ("maçã");
+insert into produtos (nome_produto) value ("banana");
+insert into produtos (nome_produto) value ("laranja");
+insert into produtos (nome_produto) value ("pêssego");
+insert into produtos (nome_produto) value ("uva");
+insert into produtos (nome_produto) value ("mamão");
+insert into produtos (nome_produto) value ("alface");
+insert into produtos (nome_produto) value ("tomate");
+insert into produtos (nome_produto) value ("rúcula");
+insert into produtos (nome_produto) value ("pimentão");
+insert into produtos (nome_produto) value ("mandioca");
+insert into produtos (nome_produto) value ("batata");
+insert into produtos (nome_produto) value ("batata doce");
+insert into produtos (nome_produto) value ("inhame");
+insert into produtos (nome_produto) value ("castanhas");
+insert into produtos (nome_produto) value ("amendoim");
+insert into produtos (nome_produto) value ("noz");
+insert into produtos (nome_produto) value ("avelã");
+insert into produtos (nome_produto) value ("feijão");
+insert into produtos (nome_produto) value ("soja");
+insert into produtos (nome_produto) value ("lentilha");
+insert into produtos (nome_produto) value ("ervilha");
+insert into produtos (nome_produto) value ("grão-de-bico");
+insert into produtos (nome_produto) value ("trigo");
+insert into produtos (nome_produto) value ("arroz");
+insert into produtos (nome_produto) value ("milho");
+insert into produtos (nome_produto) value ("cevada");
+insert into produtos (nome_produto) value ("aveia");
+insert into produtos (nome_produto) value ("centeio");
+insert into produtos (nome_produto) value ("sorgo");
+insert into produtos (nome_produto) value ("quinoa");
+insert into produtos (nome_produto) value ("pães");
+insert into produtos (nome_produto) value ("bolos");
+insert into produtos (nome_produto) value ("doces");
+insert into produtos (nome_produto) value ("salgados");
+insert into produtos (nome_produto) value ("embutidos");
+insert into produtos (nome_produto) value ("enlatados");
+insert into produtos (nome_produto) value ("biscoitos");
+insert into produtos (nome_produto) value ("salgadinhos");
