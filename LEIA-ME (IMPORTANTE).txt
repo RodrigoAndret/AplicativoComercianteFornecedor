@@ -63,3 +63,4 @@ insert into produtos (nome_produto) value ("embutidos");
 insert into produtos (nome_produto) value ("enlatados");
 insert into produtos (nome_produto) value ("biscoitos");
 insert into produtos (nome_produto) value ("salgadinhos");
+teste
